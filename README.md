@@ -1,5 +1,5 @@
 # Node.js backend template
-This node.js backend template is free to use by anyone for their projects
+This node.js backend template is free to be used by anyone for their projects
 
 ## Installation
 Clone and run:
