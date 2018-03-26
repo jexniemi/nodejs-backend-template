@@ -31,7 +31,7 @@ mongoose
 // Initialize server
 const PORT = config.port
 const server = http.createServer(app)
-server.listen(config.port, () => {
+server.listen(PORT, () => {
   console.log(`Server running on port ${config.port}`)
 })
 
